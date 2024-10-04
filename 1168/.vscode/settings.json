@@ -1,16 +1,17 @@
 {
-    "cristiandean.dojotools": {
-      "commands": [
-        {
-          "match": ".*\\.go",
-          "cmd": "make test"
-        }
-      ]
-    },
-    "workbench.colorCustomizations": {
-      "statusBar.background": "#029400",
-      "statusBar.noFolderBackground": "#029400",
-      "statusBar.debuggingBackground": "#029400",
-      "activityBar.background": "#014400"
-    }
+  "cristiandean.dojotools": {
+    "commands": [
+      {
+        "match": ".*\\.go",
+        "cmd": "make test"
+      }
+    ]
+  },
+  "workbench.colorCustomizations": {
+    "editor.lineHighlightBackground": "#2d2d2d",
+    "statusBar.background": "#029400",
+    "statusBar.noFolderBackground": "#029400",
+    "statusBar.debuggingBackground": "#029400",
+    "activityBar.background": "#014400"
   }
+}
